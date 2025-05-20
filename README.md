@@ -1,6 +1,6 @@
 # attributions
 
-We gratefully acknowledge the talented creators of the free icons/images used in our app. These icons/images are sourced from Unsplash, Flaticon and Freepik under licenses that require attribution.
+We gratefully acknowledge the talented creators of the free icons/images used in our app. These images/icons are sourced from Unsplash, Flaticon and Freepik under licenses that require attribution.
 
 
 Below is the full list of icons and their respective creators:
