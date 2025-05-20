@@ -96,6 +96,8 @@ Dance Icon:
 <a href="https://www.flaticon.com/free-icons/wedding" title="wedding icons">Wedding icons created by Freepik - Flaticon</a>
 
 
+
+
 Usage Notice:
 
 These icons are used in accordance with the license terms provided by their respective creators. Attribution is provided as required for legal and ethical compliance.
