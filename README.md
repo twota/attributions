@@ -1,9 +1,32 @@
-# icon_credits_and_attributions
+# attributions
 
-We gratefully acknowledge the talented creators of the free icons used in our app. These icons are sourced from Flaticon and Freepik under licenses that require attribution.
+We gratefully acknowledge the talented creators of the free icons/images used in our app. These icons/images are sourced from Unsplash, Flaticon and Freepik under licenses that require attribution.
 
 
 Below is the full list of icons and their respective creators:
+
+
+--------------------------------------------------------------------------------------
+
+
+Photos in Demo:
+
+Photo by Sarah Noltner on Unsplash 
+Photo by Meritt Thomas on Unsplash 
+Photo by Olga Zhuravleva on Unsplash 
+Photo by Tamara Bellis on Unsplash 
+Photo by Raamin Ka on Unsplash
+Photo by Bruce Mars on Unsplash
+Photo by Vicky Hladynets on Unsplash 
+Photo by Mohamad Khosravi on Unsplash 
+Photo by Austin Distel on Unsplash 
+Photo by Hannah Nicollet on Unsplash 
+Photo by Blake Cheek on Unsplash 
+Photo by M Brauer on Unsplash 
+Photo by Bruce Mars on Unsplash
+
+
+--------------------------------------------------------------------------------------
 
 
 Ad block Icon:
