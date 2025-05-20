@@ -1,15 +1,14 @@
 # attributions
 
-We gratefully acknowledge the talented creators of the free icons/images used in our app. These images/icons are sourced from Unsplash, Flaticon and Freepik under licenses that require attribution.
-
-
-Below is the full list of icons and their respective creators:
+We gratefully acknowledge the talented creators of the free images/icons used in our app. These images/icons are sourced from Unsplash, Flaticon and Freepik under licenses that require attribution.
 
 
 --------------------------------------------------------------------------------------
 
 
-Photos in Demo:
+Below is the full list of images and their respective creators:
+
+Photos in "twota" Demo:
 
 Photo by Sarah Noltner on Unsplash
 
@@ -48,6 +47,8 @@ Unsplash Website: https://unsplash.com
 
 --------------------------------------------------------------------------------------
 
+
+Below is the full list of icons and their respective creators:
 
 Ad block Icon:
 
@@ -102,8 +103,6 @@ Confetti Icon:
 Dance Icon:
 
 <a href="https://www.flaticon.com/free-icons/wedding" title="wedding icons">Wedding icons created by Freepik - Flaticon</a>
-
-
 
 
 Usage Notice:
