@@ -11,18 +11,30 @@ Below is the full list of icons and their respective creators:
 
 Photos in Demo:
 
-Photo by Sarah Noltner on Unsplash 
-Photo by Meritt Thomas on Unsplash 
+Photo by Sarah Noltner on Unsplash
+
+Photo by Meritt Thomas on Unsplash
+ 
 Photo by Olga Zhuravleva on Unsplash 
-Photo by Tamara Bellis on Unsplash 
+
+Photo by Tamara Bellis on Unsplash
+ 
 Photo by Raamin Ka on Unsplash
+
 Photo by Bruce Mars on Unsplash
+
 Photo by Vicky Hladynets on Unsplash 
+
 Photo by Mohamad Khosravi on Unsplash 
+
 Photo by Austin Distel on Unsplash 
+
 Photo by Hannah Nicollet on Unsplash 
+
 Photo by Blake Cheek on Unsplash 
+
 Photo by M Brauer on Unsplash 
+
 Photo by Bruce Mars on Unsplash
 
 
