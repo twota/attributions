@@ -116,3 +116,11 @@ Flaticon Website: https://www.flaticon.com
 Freepik Website: https://www.freepik.com
 
 
+--------------------------------------------------------------------------------------
+
+If you are a creator and notice that your image or icon has been used in “twota” without proper attribution, please contact us at **info@twota.ca** so we can promptly address the issue.
+
+Twota Technologies Inc.
+
+
+
